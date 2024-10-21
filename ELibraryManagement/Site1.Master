@@ -4,21 +4,24 @@
 <html>
 <head runat="server">
     <title></title>
-    <%-- bootstrap css --%>
-        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-    <%-- datatables css --%>
-        <link href="datatables/css/dataTables.dataTables.min.css" rel="stylesheet" />
-    <%-- fontawesome css --%>
-        <link href="fontawesome/css/all.css" rel="stylesheet" />
-    <%-- custom css --%>
-        <link href="css/customStylesheet.css" rel="stylesheet" />
+        <%-- region <bootstrap_implementation> >>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
 
-    <%-- jquery js --%>
+        <%-- <bootstrap_css> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+        <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+        <%-- <datatables_css> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+        <link href="datatables/css/dataTables.dataTables.min.css" rel="stylesheet" />
+        <%-- <fontawesome_css> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+        <link href="fontawesome/css/all.css" rel="stylesheet" />
+        <%-- <custom_css> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+        <link href="css/customStylesheet.css" rel="stylesheet" />
+        <%-- <jquery_js> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
         <script src="bootstrap/js/jquery-3.3.1.slim.min.js"></script>
-    <%-- popper js --%>
+        <%-- <popper_js> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
         <script src="bootstrap/js/popper.min.js"></script>
-    <%-- bootstrap js --%>
+        <%-- <bootstrap_js> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
         <script src="bootstrap/js/bootstrap.min.js"></script>
+        
+        <%-- endregion <bootstrap_css> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>

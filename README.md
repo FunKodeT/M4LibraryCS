@@ -208,4 +208,80 @@
 
 ---
 
+<h3 align="center">BRANCH 1</h3>
+
+<h4 align="center">VERSION 1.0</h4>
+
+-   New Branch (1) initialized;
+-   Online Library Management System (Video 4) Completed;
+-   Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>home.aspx</td>
+        <td>[1]</td>
+        <td>=[MAINDIR\ELibraryManagement\home.aspx]</td>
+        <td>
+            =[
+                -   home.aspx.cs(1)
+                -   home.aspx.designer.cs(1)
+            ]
+        </td>
+    </tr>
+    <tr>
+        <td>userlogin.aspx</td>
+        <td>[1]</td>
+        <td>=[MAINDIR\ELibraryManagement\userlogin.aspx]</td>
+        <td>
+            =[
+                -   userlogin.aspx.cs(1)
+                -   userlogin.aspx.designer.cs(1)
+            ]
+        </td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>home.aspx</td>
+        <td>[1]=>[1.0]</td>
+        <td>=[MAINDIR\ELibraryManagement\home.aspx]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>userlogin.aspx</td>
+        <td>[1]=>[1.0]</td>
+        <td>=[MAINDIR\ELibraryManagement\userlogin.aspx]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[0.0.1]=>[1.0]</td>
+        <td>=[MAINDIR\README.md]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
 ---

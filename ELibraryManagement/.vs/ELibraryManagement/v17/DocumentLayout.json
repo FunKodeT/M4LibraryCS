@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M4\\CSLibraryApp_P1\\ELibraryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|c:\\users\\coote\\documents\\coding\\coursework\\7_tesd1440_c-sharp_programming_i\\m4\\cslibraryapp_p1\\elibrarymanagement\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|c:\\users\\coote\\documents\\coding\\coursework\\7_tesd1440_c-sharp_programming_i\\m4\\cslibraryapp_p1\\elibrarymanagement\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|solutionrelative:userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|c:\\users\\coote\\documents\\coding\\coursework\\7_tesd1440_c-sharp_programming_i\\m4\\cslibraryapp_p1\\elibrarymanagement\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|c:\\users\\coote\\documents\\coding\\coursework\\7_tesd1440_c-sharp_programming_i\\m4\\cslibraryapp_p1\\elibrarymanagement\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|solutionrelative:home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M4\\CSLibraryApp_P1\\ELibraryManagement\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M4\\CSLibraryApp_P1\\ELibraryManagement\\css\\customstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|solutionrelative:css\\customstylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|c:\\users\\coote\\documents\\coding\\coursework\\7_tesd1440_c-sharp_programming_i\\m4\\cslibraryapp_p1\\elibrarymanagement\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +39,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "userlogin.aspx",
+              "DocumentMoniker": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M4\\CSLibraryApp_P1\\ELibraryManagement\\userlogin.aspx",
+              "RelativeDocumentMoniker": "userlogin.aspx",
+              "ToolTip": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M4\\CSLibraryApp_P1\\ELibraryManagement\\userlogin.aspx",
+              "RelativeToolTip": "userlogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-21T20:17:40.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.aspx",
+              "DocumentMoniker": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M4\\CSLibraryApp_P1\\ELibraryManagement\\home.aspx",
+              "RelativeDocumentMoniker": "home.aspx",
+              "ToolTip": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M4\\CSLibraryApp_P1\\ELibraryManagement\\home.aspx",
+              "RelativeToolTip": "home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-21T19:47:50.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M4\\CSLibraryApp_P1\\ELibraryManagement\\Site1.Master",
+              "RelativeDocumentMoniker": "Site1.Master",
+              "ToolTip": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M4\\CSLibraryApp_P1\\ELibraryManagement\\Site1.Master",
+              "RelativeToolTip": "Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-21T13:45:02.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M4\\CSLibraryApp_P1\\ELibraryManagement\\WebForm1.aspx",
               "RelativeDocumentMoniker": "WebForm1.aspx",
@@ -43,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "customStylesheet.css",
               "DocumentMoniker": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M4\\CSLibraryApp_P1\\ELibraryManagement\\css\\customStylesheet.css",
               "RelativeDocumentMoniker": "css\\customStylesheet.css",
@@ -52,19 +99,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-21T15:14:56.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Site1.Master",
-              "DocumentMoniker": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M4\\CSLibraryApp_P1\\ELibraryManagement\\Site1.Master",
-              "RelativeDocumentMoniker": "Site1.Master",
-              "ToolTip": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M4\\CSLibraryApp_P1\\ELibraryManagement\\Site1.Master",
-              "RelativeToolTip": "Site1.Master",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-21T13:45:02.637Z",
               "EditorCaption": ""
             }
           ]
