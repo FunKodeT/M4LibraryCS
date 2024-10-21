@@ -2,6 +2,10 @@
 
 ---
 
+<h1>Version History</h1>
+
+---
+
 <h3 align="center">BRANCH 0</h3>
 
 <h4 align="center">VERSION 0.0</h4>
@@ -208,6 +212,8 @@
 
 ---
 
+---
+
 <h3 align="center">BRANCH 1</h3>
 
 <h4 align="center">VERSION 1.0</h4>
@@ -277,6 +283,90 @@
     <tr>
         <td>README.md</td>
         <td>[0.0.1]=>[1.0]</td>
+        <td>=[MAINDIR\README.md]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+---
+
+<h3 align="center">BRANCH 2</h3>
+
+<h4 align="center">VERSION 2.0</h4>
+
+-   New Branch (2) initialized;
+-   Online Library Management System (Video 5) Completed;
+-   Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>adminlogin.aspx</td>
+        <td>[2]</td>
+        <td>=[MAINDIR\ELibraryManagement\adminlogin.aspx]</td>
+        <td>
+            =[
+                -   adminlogin.aspx.cs(2)
+                -   adminlogin.aspx.designer.cs(2)
+            ]
+        </td>
+    </tr>
+    <tr>
+        <td>signup.aspx</td>
+        <td>[2]</td>
+        <td>=[MAINDIR\ELibraryManagement\signup.aspx]</td>
+        <td>
+            =[
+                -   signup.aspx.cs(2)
+                -   signup.aspx.designer.cs(2)
+            ]
+        </td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>adminlogin.aspx</td>
+        <td>[2]=>[2.0]</td>
+        <td>=[MAINDIR\ELibraryManagement\adminlogin.aspx]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>signup.aspx</td>
+        <td>[2]=>[2.0]</td>
+        <td>=[MAINDIR\ELibraryManagement\signup.aspx]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>userlogin.aspx</td>
+        <td>[2.0]</td>
+        <td>=[MAINDIR\ELibraryManagement\userlogin.aspx]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[1.0]=>[2.0]</td>
         <td>=[MAINDIR\README.md]</td>
         <td></td>
     </tr>
