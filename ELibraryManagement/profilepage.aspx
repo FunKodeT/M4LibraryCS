@@ -1,15 +1,16 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="signup.aspx.cs" Inherits="ELibraryManagement.signup" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="profilepage.aspx.cs" Inherits="ELibraryManagement.profilepage" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-        <div class="container-fluid">
+    <div class="container-fluid">
         <div class="row">
-            <div class="col-md-8 mx-auto">
+            <%-- region <profile_card> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+            <div class="col-md-5">
                 <div class="card">
-                    <%-- region <user_signup_card> >>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+                    <%-- region <user_profile_card> >>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
                     <div class="card-body">
                         <%-- <header_img> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
                         <div class="row">
@@ -19,18 +20,22 @@
                                 </center>
                             </div>
                         </div>
-                        <%-- <form_header> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+                        <%-- <profile_header> >>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
                         <div class="row">
                             <div class="col">
                                 <center>
                                     <h4>
-                                        Member Sign-up
+                                        Your Profile
                                     </h4>
+                                    <span>
+                                        Account Status - 
+                                    </span>
+                                    <asp:Label class="badge badge-pill badge-info" ID="Label1" runat="server" Text="Status"></asp:Label>
                                 </center>
                             </div>
                         </div>
                         <hr />
-                        <%-- region <user_signup_form> >>>>>>>>>>>>>>>>>>>~~> --%>
+                        <%-- region <user_profile_form> >>>>>>>>>>>>>>>>>>~~> --%>
                         <%-- <form_row_1> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
                         <div class="row">
                             <%-- <name_input> >>>>>>>>>>>>>>>>>>>>>>~~> --%>
@@ -180,35 +185,46 @@
                         <%-- <form_row_5> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
                         <div class="row">
                             <%-- <username_input> >>>>>>>>>>>>>>>>>>~~> --%>
-                            <div class="col-md-6">
+                            <div class="col-md-4">
                                 <label>
                                     User ID
                                 </label>
                                 <div class="form-group">
-                                    <asp:TextBox class="form-control" ID="TextBox8" runat="server" placeholder="User ID"></asp:TextBox>
+                                    <asp:TextBox class="form-control" ID="TextBox8" runat="server" placeholder="User ID" ReadOnly="true"></asp:TextBox>
                                 </div>
                             </div>
                             <%-- <password_input> >>>>>>>>>>>>>>>>>>~~> --%>
-                            <div class="col-md-6">
+                            <div class="col-md-4">
                                 <label>
-                                    Password
+                                    Old Password
                                 </label>
                                 <div class="form-group">
-                                    <asp:TextBox class="form-control" ID="TextBox9" runat="server" placeholder="Password" TextMode="Password"></asp:TextBox>
+                                    <asp:TextBox class="form-control" ID="TextBox9" runat="server" placeholder="Password" TextMode="Password" ReadOnly="true"></asp:TextBox>
                                 </div>
                             </div>
-                        </div>
-                        <%-- <signup_btn> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
-                        <div class="row">
-                            <div class="col">
+                            <%-- <newpass_input> >>>>>>>>>>>>>>>>>>>~~> --%>
+                            <div class-"col-md-4">
+                                <label>
+                                    New Password
+                                </label>
                                 <div class="form-group">
-                                    <asp:Button class="btn btn-success btn-block btn-lg" ID="Button1" runat="server" Text="Sign Up"/>
+                                    <asp:TextBox class="form-control" ID="TextBox10" runat="server" placeholder="Password" TextMode="Password"></asp:TextBox>
                                 </div>
                             </div>
                         </div>
-                        <%-- endregion <user_signup_form> >>>>>>>>>>>>>>>>~~> --%>
+                        <%-- <update_btn> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+                        <div class="row">
+                            <div class="col-6 mx-auto">
+                                <center>
+                                    <div class="form-group">
+                                        <asp:Button class="btn btn-primary btn-lg" ID="Button1" runat="server" Text="Update"/>
+                                    </div>
+                                </center>
+                            </div>
+                        </div>
+                        <%-- endregion <user_profile_form> >>>>>>>>>>>>>>>~~> --%>
                     </div>
-                    <%-- endregion <user_signup_card> >>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+                    <%-- endregion <user_profile_card> >>>>>>>>>>>>>>>>>>>>>>~~> --%>
                 </div>
                 <a href="home.aspx">
                     <strong><< Back to Home</strong>
@@ -216,6 +232,43 @@
                 <br />
                 <br />
             </div>
+            <%-- endregion <profile_card> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+            <%-- region <books_card> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+            <div class="col-md-7">
+                <div class="card">
+                    <%-- region <user_book_card> >>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+                    <div class="card-body">
+                        <%-- <header_img> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+                        <div class="row">
+                            <div class="col">
+                                <center>
+                                    <img width="100px" src="imgs/books1.png"/>
+                                </center>
+                            </div>
+                        </div>
+                        <%-- <profile_header> >>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+                        <div class="row">
+                            <div class="col">
+                                <center>
+                                    <h4>
+                                        Your Issued Books
+                                    </h4>
+                                    <asp:Label class="badge badge-pill badge-info" ID="Label2" runat="server" Text="Book Information"></asp:Label>
+                                </center>
+                            </div>
+                        </div>
+                        <hr />
+                        <%-- <book_table> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+                        <div class="row">
+                            <div class="col">
+                                <asp:GridView class="table table-striped table-bordered" ID="GridView1" runat="server"></asp:GridView>
+                            </div>
+                        </div>
+                    </div>
+                    <%-- endregion <user_book_card> >>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
+                </div>
+            </div>
+            <%-- endregion <books_card> >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>~~> --%>
         </div>
     </div>
 </asp:Content>
