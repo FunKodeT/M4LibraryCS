@@ -692,3 +692,64 @@
 ---
 
 ---
+
+<h3 align="center">BRANCH 8</h3>
+
+<h4 align="center">VERSION 8.0</h4>
+
+-   New Branch (8) initialized;
+-   Online Library Management System (Video 11) Completed;
+-   Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>a_bookinventory.aspx</td>
+        <td>[8]</td>
+        <td>=[MAINDIR\ELibraryManagement\a_bookinventory.aspx]</td>
+        <td>
+            =[
+                -   a_bookinventory.aspx.cs(8)
+                -   a_bookinventory.aspx.designer.cs(8)
+            ]
+        </td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>a_bookinventory.aspx</td>
+        <td>[8]=>[8.0]</td>
+        <td>=[MAINDIR\ELibraryManagement\a_bookinventory.aspx]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[7.0]=>[8.0]</td>
+        <td>=[MAINDIR\README.md]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+---

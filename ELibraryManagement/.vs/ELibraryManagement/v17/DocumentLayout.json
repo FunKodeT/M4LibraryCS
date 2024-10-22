@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M5\\CSLibraryApp_P2\\ELibraryManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|c:\\users\\coote\\documents\\coding\\coursework\\7_tesd1440_c-sharp_programming_i\\m5\\cslibraryapp_p2\\elibrarymanagement\\a_bookinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|solutionrelative:a_bookinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|c:\\users\\coote\\documents\\coding\\coursework\\7_tesd1440_c-sharp_programming_i\\m5\\cslibraryapp_p2\\elibrarymanagement\\a_membermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{12A4AC29-B764-4F90-8240-2AF774FFDBD1}|ELibraryManagement.csproj|solutionrelative:a_membermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "a_bookinventory.aspx",
+              "DocumentMoniker": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M5\\CSLibraryApp_P2\\ELibraryManagement\\a_bookinventory.aspx",
+              "RelativeDocumentMoniker": "a_bookinventory.aspx",
+              "ToolTip": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M5\\CSLibraryApp_P2\\ELibraryManagement\\a_bookinventory.aspx",
+              "RelativeToolTip": "a_bookinventory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-22T18:57:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "a_membermanagement.aspx",
               "DocumentMoniker": "C:\\Users\\coote\\Documents\\Coding\\CourseWork\\7_TESD1440_C-Sharp_Programming_I\\M5\\CSLibraryApp_P2\\ELibraryManagement\\a_membermanagement.aspx",
               "RelativeDocumentMoniker": "a_membermanagement.aspx",
