@@ -631,3 +631,64 @@
 ---
 
 ---
+
+<h3 align="center">BRANCH 7</h3>
+
+<h4 align="center">VERSION 7.0</h4>
+
+-   New Branch (7) initialized;
+-   Online Library Management System (Video 10) Completed;
+-   Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>a_membermanagement.aspx</td>
+        <td>[7]</td>
+        <td>=[MAINDIR\ELibraryManagement\a_membermanagement.aspx]</td>
+        <td>
+            =[
+                -   a_membermanagement.aspx.cs(7)
+                -   a_membermanagement.aspx.designer.cs(7)
+            ]
+        </td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>a_membermanagement.aspx</td>
+        <td>[7]=>[7.0]</td>
+        <td>=[MAINDIR\ELibraryManagement\a_membermanagement.aspx]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[6.0]=>[7.0]</td>
+        <td>=[MAINDIR\README.md]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+---
