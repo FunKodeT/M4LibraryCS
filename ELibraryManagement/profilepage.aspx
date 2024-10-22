@@ -203,7 +203,7 @@
                                 </div>
                             </div>
                             <%-- <newpass_input> >>>>>>>>>>>>>>>>>>>~~> --%>
-                            <div class-"col-md-4">
+                            <div class="col-md-4">
                                 <label>
                                     New Password
                                 </label>

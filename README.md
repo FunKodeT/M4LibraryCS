@@ -475,6 +475,91 @@
         <td></td>
     </tr>
 </table>
+---
+
+---
+
+---
+
+<h3 align="center">BRANCH 5</h3>
+
+<h4 align="center">VERSION 5.0</h4>
+
+-   New Branch (5) initialized;
+-   Online Library Management System (Video 8) Completed;
+-   Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> ADDED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>a_authormanagement.aspx</td>
+        <td>[5]</td>
+        <td>=[MAINDIR\ELibraryManagement\a_authormanagement.aspx]</td>
+        <td>
+            =[
+                -   a_authormanagement.aspx.cs(5)
+                -   a_authormanagement.aspx.designer.cs(5)
+            ]
+        </td>
+    </tr>
+    <tr>
+        <td>a_publishermanagement.aspx</td>
+        <td>[5]</td>
+        <td>=[MAINDIR\ELibraryManagement\a_publishermanagement.aspx]</td>
+        <td>
+            =[
+                -   a_publishermanagement.aspx.cs(5)
+                -   a_publishermanagement.aspx.designer.cs(5)
+            ]
+        </td>
+    </tr>
+</table>
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>a_authormanagement.aspx</td>
+        <td>[5]=>[5.0]</td>
+        <td>=[MAINDIR\ELibraryManagement\a_authormanagement.aspx]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>a_publishermanagement.aspx</td>
+        <td>[5]=>[5.0]</td>
+        <td>=[MAINDIR\ELibraryManagement\a_publishermanagement.aspx]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>profilepage.aspx</td>
+        <td>[4.0]=>[5.0]</td>
+        <td>=[MAINDIR\ELibraryManagement\profilepage.aspx]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[4.0]=>[5.0]</td>
+        <td>=[MAINDIR\README.md]</td>
+        <td></td>
+    </tr>
+</table>
 
 ---
 
