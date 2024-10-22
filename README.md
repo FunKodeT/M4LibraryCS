@@ -790,3 +790,44 @@
 ---
 
 ---
+
+<h3 align="center">BRANCH 10</h3>
+
+<h4 align="center">VERSION 10.0</h4>
+
+-   New Branch (10) initialized;
+-   Online Library Management System (Video 13) Completed;
+-   Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>Site1.Master</td>
+        <td>[0.0.1]=>[10.0]</td>
+        <td>=[MAINDIR\ELibraryManagement\Site1.Master]</td>
+        <td>
+            =[
+                -   Site1.Master.cs(0.0.1)=>[10.0]
+            ]
+        </td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[9.0]=>[10.0]</td>
+        <td>=[MAINDIR\README.md]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+---
