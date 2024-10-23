@@ -831,3 +831,51 @@
 ---
 
 ---
+
+<h3 align="center">BRANCH 11</h3>
+
+<h4 align="center">VERSION 11.0</h4>
+
+-   New Branch (11) initialized;
+-   Online Library Management System (Video 14) Started;
+    -   MC: Due to some error, project was unable to be successfully completed on C# connection string implementation;
+-   Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>signup.aspx</td>
+        <td>[4.0]=>[11.0]</td>
+        <td>=[MAINDIR\ELibraryManagement\signup.aspx]</td>
+        <td>
+            =[
+                -   signup.aspx.cs(4.0)=>[11.0]
+            ]
+        </td>
+    </tr>
+    <tr>
+        <td>Web.config</td>
+        <td>[9.0]=>[11.0]</td>
+        <td>=[MAINDIR\ELibraryManagement\Web.config]</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[10.0]=>[11.0]</td>
+        <td>=[MAINDIR\README.md]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
+---
