@@ -212,6 +212,34 @@
 
 ---
 
+<h4 align="center">VERSION 0.1</h4>
+
+-   Project put on pause indefinitely due to systemic tutorial issues;
+    -   MC: Was unable to troubleshoot the C# implementation of connection string. 2 others and myself tried different methods to no avail;
+-   Merged (11) into (0);
+-   Pushed ALL to ORIGIN;
+
+---
+
+<h5 align="center"><strong><em><u> UPDATED </u></em></strong></h5>
+
+<table align="center">
+    <tr>
+        <th>ITEM</th>
+        <th>VERSION</th>
+        <th>DIR_LOC</th>
+        <th>COMMENT</th>
+    </tr>
+    <tr>
+        <td>README.md</td>
+        <td>[11.0]=>[0.1]</td>
+        <td>=[MAINDIR\README.md]</td>
+        <td></td>
+    </tr>
+</table>
+
+---
+
 ---
 
 <h3 align="center">BRANCH 1</h3>
